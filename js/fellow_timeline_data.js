@@ -242,6 +242,58 @@ var timelineData = {
                         "thumbnail": dev_url,
                         "credit":credit,
                     }
+                },
+                {
+                    "startDate":"2015,02,16",
+                    "endDate":"2015,03,15",
+                    "headline":"Lagos Class 5 BootCamp",
+                    "text": " 2 Back to Back Boot Camps!",
+                    "tag":"BootCamp",
+                    "classname":"",
+                    "asset": {
+                        "media": bootcamp_url,
+                        "thumbnail": bootcamp_url,
+                        "credit":credit,
+                    }
+                },
+                {
+                    "startDate":"2015,03,16",
+                    "endDate":"2015,06,07",
+                    "headline":"Lagos Class 5 Training",
+                    "text": training_caption,
+                    "tag":"Training",
+                    "classname":"",
+                    "asset": {
+                        "media": training_url,
+                        "thumbnail": training_url,
+                        "credit":credit,
+                    }
+                },
+                {
+                    "startDate":"2015,06,08",
+                    "endDate":"2015,08,30",
+                    "headline":"Lagos Class 5 JrDev",
+                    "text": jr_dev_caption,
+                    "tag":"Dev",
+                    "classname":"",
+                    "asset": {
+                        "media": jr_dev_url,
+                        "thumbnail": jr_dev_url,
+                        "credit":credit,
+                    }
+                },
+                {
+                    "startDate":"2015,08,31",
+                    "endDate":"2019,03,16",
+                    "headline":"Lagos Class 5 Dev",
+                    "text": dev_caption,
+                    "tag":"Dev",
+                    "classname":"",
+                    "asset": {
+                        "media": dev_url,
+                        "thumbnail": dev_url,
+                        "credit":credit,
+                    }
                 }
             ],
             // "era": [
