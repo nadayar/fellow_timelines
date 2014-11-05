@@ -11,7 +11,7 @@ var fellowTimeline = {
             height:     '650',
             source:     timelineData,
             embed_id:   'fellow-timeline',
-            start_zoom_adjust: 3
+            start_zoom_adjust: 0
         });
     }
  
