@@ -194,7 +194,7 @@ var timelineData = {
                 {
                     "startDate":"2015,01,12",
                     "endDate":"2015,01,25",
-                    "headline":"Lagos Class 4.1 BootCamp",
+                    "headline":"Lagos Class 4.5 BootCamp",
                     "text":"All Female BootCamp!",
                     "tag":"BootCamp",
                     "classname":"",
